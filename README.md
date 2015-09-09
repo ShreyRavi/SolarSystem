@@ -1,8 +1,10 @@
 # SolarSystem
 A Solar System simulation using the PyGame Python game engine library. A graphics programming example.
 
+![alt tag](http://www.workmode.org/imgbank/solarsystem.png)
+
 Solar System PyGame ReadMe - Shreyas Tallamraju
-+———————————————————————————————————————————————+
+
 To run the simulation, run solar.py. 
 
 To run executable, just un-zip SolarSystem App.zip and run the Unix executable ‘Run SolarSystem Sim’ or run the Unix executable ‘Run SolarSystem Sim’ in the SolarSystem Executable folder.
